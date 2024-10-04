@@ -48,10 +48,6 @@ public class ValidateJsonResponseBody {
 		
 			
 			Assert.assertEquals(firstName,"George","Check for presense of firstname as George");
-		
-			
-			
-			
 			
 
 			

@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="HttpValidateHeader05.ValidateResponseHeader">
+      <class name="AuthorizationTypes_Oauth2.o11.Authorization_Oauth">
         <methods>
-          <include name="testValidateResponseHeader"/>
+          <include name="GetAccessToken"/>
+          <include name="ListInvoice"/>
         </methods>
-      </class> <!-- HttpValidateHeader05.ValidateResponseHeader -->
+      </class> <!-- AuthorizationTypes_Oauth2.o11.Authorization_Oauth -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
