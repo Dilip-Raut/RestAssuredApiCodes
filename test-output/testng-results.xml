@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-01T12:46:07 IST" name="Default suite" finished-at="2024-10-01T12:46:10 IST" duration-ms="2974">
+  <suite started-at="2024-10-04T13:29:08 IST" name="Default suite" finished-at="2024-10-04T13:29:13 IST" duration-ms="4320">
     <groups>
     </groups>
-    <test started-at="2024-10-01T12:46:07 IST" name="Default test" finished-at="2024-10-01T12:46:10 IST" duration-ms="2974">
-      <class name="RestApiPractice.FirstGetRequest">
-        <test-method signature="getFirstRequest()[pri:0, instance:RestApiPractice.FirstGetRequest@52e6fdee]" started-at="2024-10-01T12:46:07 IST" name="getFirstRequest" finished-at="2024-10-01T12:46:10 IST" duration-ms="2912" status="PASS">
+    <test started-at="2024-10-04T13:29:08 IST" name="Default test" finished-at="2024-10-04T13:29:13 IST" duration-ms="4320">
+      <class name="ValidateJsonResponseBody06.ValidateJsonResponseBody">
+        <test-method signature="testUserListResponseBody()[pri:0, instance:ValidateJsonResponseBody06.ValidateJsonResponseBody@52e6fdee]" started-at="2024-10-04T13:29:08 IST" name="testUserListResponseBody" finished-at="2024-10-04T13:29:13 IST" duration-ms="4262" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getFirstRequest -->
-      </class> <!-- RestApiPractice.FirstGetRequest -->
+        </test-method> <!-- testUserListResponseBody -->
+      </class> <!-- ValidateJsonResponseBody06.ValidateJsonResponseBody -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
