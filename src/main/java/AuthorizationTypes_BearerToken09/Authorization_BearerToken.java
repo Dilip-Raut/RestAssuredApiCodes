@@ -28,7 +28,7 @@ public class Authorization_BearerToken {
 		payload.put("email", "xyzfortesting01@gmail.com");
 		payload.put("status", "Active");
 		
-		String AuthToken = "Bearer 4d6291d7f7e9626f82f040dd114fb0584b4207ad31be0e043238f04e7e385d60";
+		String AuthToken = "Bearer 44d6291d7f7e96g26f82f040dd114fb05844b4207ad31be0e04323448f04e7e385d60";
 	
 		requestSpec.headers("Authorization", AuthToken).
 					contentType(ContentType.JSON).
