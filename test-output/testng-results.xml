@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-08T11:42:07 IST" name="Default suite" finished-at="2024-10-08T11:42:11 IST" duration-ms="3636">
+  <suite started-at="2024-10-08T16:23:17 IST" name="Default suite" finished-at="2024-10-08T16:23:20 IST" duration-ms="3133">
     <groups>
     </groups>
-    <test started-at="2024-10-08T11:42:07 IST" name="Default test" finished-at="2024-10-08T11:42:11 IST" duration-ms="3636">
-      <class name="JSONArrayUsingJsonObject_List16.JSONArrayUsingJsonObject_List">
-        <test-method signature="CreateJSonArrayUsingList()[pri:0, instance:JSONArrayUsingJsonObject_List16.JSONArrayUsingJsonObject_List@6c80d78a]" started-at="2024-10-08T11:42:07 IST" name="CreateJSonArrayUsingList" finished-at="2024-10-08T11:42:11 IST" duration-ms="3575" status="PASS">
+    <test started-at="2024-10-08T16:23:17 IST" name="Default test" finished-at="2024-10-08T16:23:20 IST" duration-ms="3133">
+      <class name="POJOClassForComplexNestedJson23.DemoTestComplexNestedJSONObject">
+        <test-method signature="createUser()[pri:0, instance:POJOClassForComplexNestedJson23.DemoTestComplexNestedJSONObject@5fdcaa40]" started-at="2024-10-08T16:23:17 IST" name="createUser" finished-at="2024-10-08T16:23:20 IST" duration-ms="3082" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- CreateJSonArrayUsingList -->
-      </class> <!-- JSONArrayUsingJsonObject_List16.JSONArrayUsingJsonObject_List -->
+        </test-method> <!-- createUser -->
+      </class> <!-- POJOClassForComplexNestedJson23.DemoTestComplexNestedJSONObject -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
