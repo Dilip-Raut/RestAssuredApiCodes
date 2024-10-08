@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="AuthorizationTypes_Oauth2.o11.Authorization_Oauth">
+      <class name="JsonObjecUsingJavaMap15.JsonObjecUsingJavaMapDemo">
         <methods>
-          <include name="GetAccessToken"/>
-          <include name="ListInvoice"/>
+          <include name="createAuthToken"/>
         </methods>
-      </class> <!-- AuthorizationTypes_Oauth2.o11.Authorization_Oauth -->
+      </class> <!-- JsonObjecUsingJavaMap15.JsonObjecUsingJavaMapDemo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
