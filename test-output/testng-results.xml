@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-08T16:23:17 IST" name="Default suite" finished-at="2024-10-08T16:23:20 IST" duration-ms="3133">
+  <suite started-at="2024-10-08T17:40:58 IST" name="Default suite" finished-at="2024-10-08T17:41:07 IST" duration-ms="8600">
     <groups>
     </groups>
-    <test started-at="2024-10-08T16:23:17 IST" name="Default test" finished-at="2024-10-08T16:23:20 IST" duration-ms="3133">
-      <class name="POJOClassForComplexNestedJson23.DemoTestComplexNestedJSONObject">
-        <test-method signature="createUser()[pri:0, instance:POJOClassForComplexNestedJson23.DemoTestComplexNestedJSONObject@5fdcaa40]" started-at="2024-10-08T16:23:17 IST" name="createUser" finished-at="2024-10-08T16:23:20 IST" duration-ms="3082" status="PASS">
+    <test started-at="2024-10-08T17:40:58 IST" name="Default test" finished-at="2024-10-08T17:41:07 IST" duration-ms="8600">
+      <class name="ResponseSpecification29.DemoResponseSpec">
+        <test-method is-config="true" signature="createResponseSpec()[pri:0, instance:ResponseSpecification29.DemoResponseSpec@52bf72b5]" started-at="2024-10-08T17:40:58 IST" name="createResponseSpec" finished-at="2024-10-08T17:40:59 IST" duration-ms="890" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createUser -->
-      </class> <!-- POJOClassForComplexNestedJson23.DemoTestComplexNestedJSONObject -->
+        </test-method> <!-- createResponseSpec -->
+        <test-method signature="getAllBookingIds()[pri:0, instance:ResponseSpecification29.DemoResponseSpec@52bf72b5]" started-at="2024-10-08T17:40:59 IST" name="getAllBookingIds" finished-at="2024-10-08T17:41:05 IST" duration-ms="6123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllBookingIds -->
+        <test-method signature="getBookingByFirstName()[pri:0, instance:ResponseSpecification29.DemoResponseSpec@52bf72b5]" started-at="2024-10-08T17:41:05 IST" name="getBookingByFirstName" finished-at="2024-10-08T17:41:07 IST" duration-ms="1525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookingByFirstName -->
+      </class> <!-- ResponseSpecification29.DemoResponseSpec -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

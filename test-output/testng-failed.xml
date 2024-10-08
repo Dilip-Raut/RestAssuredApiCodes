@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="JsonObjecUsingJavaMap15.JsonObjecUsingJavaMapDemo">
+      <class name="Mock_simulateJsonResponseEasily27.DemoTest">
         <methods>
-          <include name="createAuthToken"/>
+          <include name="test1"/>
+          <include name="test2"/>
         </methods>
-      </class> <!-- JsonObjecUsingJavaMap15.JsonObjecUsingJavaMapDemo -->
+      </class> <!-- Mock_simulateJsonResponseEasily27.DemoTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
